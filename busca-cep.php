@@ -1,3 +1,4 @@
+<?php
 /**
 * Plugin Name: Buscar CEP
 * Description: Plugin que busca dados do endereço de uma pessoa pelo CEP
